@@ -36,7 +36,7 @@ Because the vendor allowed downloading by project (collection of studies), the b
 |4|2-7900 - Harris Co. Oct. Open PO|1222130.0|2022|4|29.941478|-95.762904|
 |5|Harris County - Open PO 2020|766079.0|2020|3|29.853378|-95.683233|
 
-![[average volume tracked per year.png]]
+![](images/average%20volume%20tracked%20per%20year.png)
 
 #### Step 2 Process into Dataframe
 
