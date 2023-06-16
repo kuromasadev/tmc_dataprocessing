@@ -15,11 +15,11 @@ The following main pieces are extracted from the study:
 - video recording of the entire movement count 
 - peak hour factor (AM, MIDDAY, PM)
 
-##### Images from vendor's cloud report
+Images from vendor's cloud report
 ![](images/traffic%20could%20maps.png)
-![](turning%20movement%20count%20chart.png)
-![](turning%20movement%20count.png)
-![](video%20and%20peak%20hour%20factors.png)
+![](images/turning%20movement%20count%20chart.png)
+![](images/turning%20movement%20count.png)
+![](images/video%20and%20peak%20hour%20factors.png)
 
 ## Objectives 
 
