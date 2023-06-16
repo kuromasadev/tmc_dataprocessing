@@ -4,7 +4,7 @@ Traffic Data Analysis - Turning Movement Counts
 
 ## Context 
 
-![[traffic data portal.png]]
+![](images/traffic%20data%20portal.png)
 
 When a traffic data provider lacks API access, the task became to find a way to automate the processing of the data as shown in the online cloud portal.  Based on the vendor's structure, each project represents a **purchase order PO** and each study represents an intersection that was studied on either tuesday, wednesday or thursday between the hours of 6AM - 7PM. This is known as a 13-hr turning movement count study, typically used to gather data for signal warrant studies. 
 
@@ -16,11 +16,10 @@ The following main pieces are extracted from the study:
 - peak hour factor (AM, MIDDAY, PM)
 
 ##### Images from vendor's cloud report
-
-![[traffic cloud map.png]]
-![[turning movement count chart.png]]
-![[turning movement count.png]]
-![[video and peak hour factors.png]]
+![](images/traffic%20could%20maps.png)
+![](turning%20movement%20count%20chart.png)
+![](turning%20movement%20count.png)
+![](video%20and%20peak%20hour%20factors.png)
 
 ## Objectives 
 
@@ -51,8 +50,7 @@ Provided instructions within the script, the objective follows:
 
 link to script
 
-![[Preview of studies in GIS.png]]
-
+![](images/Preview%20of%20studies%20in%20GIS.png)
 
 #### Step 3: Process into GIS 
 
