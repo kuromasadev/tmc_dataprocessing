@@ -15,7 +15,7 @@ The following main pieces are extracted from the study:
 - video recording of the entire movement count 
 - peak hour factor (AM, MIDDAY, PM)
 
-Images from vendor's cloud report
+###### Images from vendor's cloud report
 ![](images/traffic%20could%20maps.png)
 ![](images/turning%20movement%20count%20chart.png)
 ![](images/turning%20movement%20count.png)
@@ -27,7 +27,7 @@ Images from vendor's cloud report
 
 ##### Step 1: Download all CSV's related to the current projects 
 Because the vendor allowed downloading by project (collection of studies), the bigger task became bringing all the studies out to a root folder, totaling almost 500 csv files. 
-
+ 
 |Project|Volume|Year|Quarter|Longitude|Latitude|
 |---|---|---|---|---|---|
 |1|2-1058 - Harris County - Open PO#36384|956294.0|2021|3|29.997896|-95.797362|
@@ -48,7 +48,7 @@ Provided instructions within the script, the objective follows:
 5. concatenate into a single dataframe
 6. group by to appropriate transformations to load into GIS
 
-link to script
+![link to script](https://github.com/kuromasadev/tmc_dataprocessing/blob/main/scripts/Miovision_TMC_Importer_Stable_current.py)
 
 ![](images/Preview%20of%20studies%20in%20GIS.png)
 
